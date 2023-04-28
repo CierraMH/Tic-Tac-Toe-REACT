@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Tic-Tac-Toe-REACT/static/css/main.fb3345f3.css",
+    "main.js": "/Tic-Tac-Toe-REACT/static/js/main.5bf4aebd.js",
+    "static/js/787.1f409026.chunk.js": "/Tic-Tac-Toe-REACT/static/js/787.1f409026.chunk.js",
+    "index.html": "/Tic-Tac-Toe-REACT/index.html",
+    "main.fb3345f3.css.map": "/Tic-Tac-Toe-REACT/static/css/main.fb3345f3.css.map",
+    "main.5bf4aebd.js.map": "/Tic-Tac-Toe-REACT/static/js/main.5bf4aebd.js.map",
+    "787.1f409026.chunk.js.map": "/Tic-Tac-Toe-REACT/static/js/787.1f409026.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb3345f3.css",
+    "static/js/main.5bf4aebd.js"
+  ]
+}
